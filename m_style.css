@@ -1,0 +1,82 @@
+.tabelka {
+    color: white;
+    text-align: left;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+    background-color: rgba(255, 255, 255, 0.158);
+    font-size: 30px;
+    margin-top: 0px;
+}
+
+#tabelkainfo {
+    color: white; 
+    text-align: left;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+    background-color: rgba(255, 255, 255, 0.26);
+    font-size: 35px;
+    margin-top: 0px;
+}
+
+.tabelka:hover {
+    background-color: rgba(255, 255, 255, 0.486);
+}
+
+#banner_left {
+    background-color: black;
+    margin-top: 5px;
+    float: left;
+}
+
+#posty {
+    text-align: center;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(107, 107, 107);
+    margin-left: 35%;
+    margin-right: 35%;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-size: 30px;
+    padding-right: 0px;
+}
+
+.post {
+    background-color: rgba(107, 107, 107, 0.384);
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#dodinfo {
+    color: white;
+    border-bottom: 2px grey solid;
+    font-size: 25px;
+    position: absolute;
+    bottom: 30px;
+    width: 100%;
+}
+
+#yt:hover {
+    color: rgb(33, 245, 33);
+}
+
+#yt {
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    border-left: 1px rgb(33, 245, 33) solid;
+}
+
+#discord:hover {
+    color: rgb(25, 0, 255);
+}
+
+#discord {
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    margin-left: 110px;
+    border-left: 1px rgb(25, 0, 255) solid;
+}
